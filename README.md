@@ -8,7 +8,7 @@ awards from the National Science Foundation to Colorado State University
 ### Description of data collection
 
 Experimental and sampling designs as well as descriptions of data
-collection procedures can be found in
+collection procedures can be found in:
 
 1.  Bilyeu, D. M., D. J. Cooper, and N. T. Hobbs. 2007. Assessing
     impacts of large herbivores on shrubs: tests of scaling factors for
@@ -28,3 +28,19 @@ collection procedures can be found in
     among herbivory, climate, topography and plant age shape riparian
     willow dynamics in northern Yellowstone National Park, USA. Journal
     of Ecology 102:667-677.
+
+### Description of files
+
+1.  fall_height_data_2001_2020.csv contains annual measurements of
+    height of individual willows at the end of the growing season.
+    Metadata are found in fall_height_data_metadata.pdf.
+
+2.  browsing_data_2003_2020.csv contains plant level obserevations of
+    the number of stems browsed out of a sample of observed stems on
+    individual willow plants during spring. Meta data are found in
+    browsing_data_metadata.pdf
+
+3.  spring_height_data_metadata.pdf contains
+
+    -   observations of heights of individual willows at the begining of
+        the growing season well_data_2002_2020.csv
