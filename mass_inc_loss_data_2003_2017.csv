@@ -1,4 +1,4 @@
-site_full,willid,stem_id_full,year,willid_full,stid,site_id,treat,exp,species,fall_stem_weight,spring_stem_weight,over_winter_loss,net_accumulation,fence,dam,browse,n,min_yr,max_yr
+site_full,willid,stem_id_full,year,willid_full,stid,site_id,treat,exp,species,fall_stem_weight,spring_stem_weight,over_winter_loss,net_accumulation,fence,dam,browse,n.plants,min_yr,max_yr
 crescent-obs,86,crescent-obs-8686,2009,crescent-obs-86,86,crescent,obs,0,geyer,4.456542676,0.974997653,2.535972277,1.920570399,0,0,1,22,2009,2017
 crescent-obs,86,crescent-obs-8686,2010,crescent-obs-86,86,crescent,obs,0,geyer,3.647101929,1.920570399,1.999627583,1.647474347,0,0,1,22,2009,2017
 crescent-obs,86,crescent-obs-8686,2011,crescent-obs-86,86,crescent,obs,0,geyer,6.310064967,1.647474347,5.098349954,1.211715012,0,0,1,22,2009,2017
