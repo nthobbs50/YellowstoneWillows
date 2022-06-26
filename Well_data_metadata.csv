@@ -1,0 +1,13 @@
+﻿Site_full,full abbreviation of the site 
+Site_id,shortened site ID
+treat,"experimental treatment, dx = dammed and fenced, dc = dammed and unfenced, cx = undammed fenced cc = undammed and unfenced"
+well_id,unique well number
+well_id_full,combined ID of full site abbreviation and well number
+Date,month/day/year
+rwte,relative water table elevation is the depth of water table below the ground surface in cm
+year,calendar year
+doy,julian day of  year
+mday,day of the month
+month,abbreviated month
+exp,"indicator variable. 1 if an exerpimental plot, 0 otherwise"
+season,"descriptor for early, mid, or late growing season"
