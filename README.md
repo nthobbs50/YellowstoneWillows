@@ -40,17 +40,27 @@ collection procedures can be found in:
     individual willow plants during spring. Meta data are found in
     browsing_data_metadata.pdf
 
-3.  spring_height_data_metadata.pdf contains -annual observations of
-    heights of individual willows at the beginning of the growing season
-    -annual observations of change in height during the preceding winter
-    -annual observations of change in height during the growing season.
-    Metadata are found in spring_height_data_metadata.pdf.
+3.  spring_height_data_metadata.pdf contains annual observations of
 
-4.  mass_inc_loss_data_2003_2017.csv contains data collected annually on
-    -Mass of sample of stems on individual willows during the fall and
-    spring. -Change in stem mass during winter -Change in stem mass
-    during the growing season
+-   heights of individual willows at the beginning of the growing season
+-   change in height during the preceding winter
+-   change in height during the growing season. Metadata are found in
+    spring_height_data_metadata.pdf.
 
-    well_data_2002_2020.csv contains monthly measurements of water table
+4.  mass_inc_loss_data_2003_2017.csv contains annual observations of  
+
+-   mass of sample of stems on individual willows during the fall and
+    spring.
+-   change in stem mass during winter
+-   change in stem mass during the growing season
+
+5.  well_data_2002_2020.csv contains monthly measurements of water table
     depth during the growing season. Metadata are found in
     well_metadata.pdf
+
+### Terms of use
+
+These data may be used for teaching and other educational purposes. The
+data may be use freely in scientific research and publication after
+January 1, 2023. The NSF awards supporting the collection of these data
+shall be aknowledged in any publications using the data.
